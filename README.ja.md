@@ -22,6 +22,22 @@ XXD Panel 021 は、Codex と互換 Agent のための画像生成 Skill です�
 
 主体は、線幅がわずかに揺れ、震え、局所的に途切れ、少しだけ描き直された墨線／製図ペン／コピー線で再構成します。白いネガ形が識別を担い、灰色はごく小さな面だけ。広い白紙、非対称配置、局所的なトリミング、小さな編集文字が、越境をユーモラスかつ抑制的に見せます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090264725116551641) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 美学提示词 x VOL.021
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 021 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 021 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 021 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 021 が必要なのか
 
 一般的な「黒い面＋線画」は、主体を矩形に貼っただけのポスターテンプレートへ崩れがちです。境界に出来事がなく、線は滑らかすぎ、主体、黒い領域、文字が互いに関係しません。
@@ -44,22 +60,6 @@ XXD Panel 021 は、Codex と互換 Agent のための画像生成 Skill です�
 - **色は使わない：** ほぼ白い紙、純黒、黒線、ごく小さな灰色面だけで、差し色やグラデーションはありません。
 - **非対称と局所トリミング：** 広い白紙と偏った配置で緊張を作り、補助要素を複雑な背景へ発展させません。
 - **文字も越境に参加：** 一つの短い題と1〜3組の微小文字を、領域の縁、ネガ形、越境方向、輪郭へ入れ、別付けラベルにしません。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090264725116551641) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 美学提示词 x VOL.021
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 021 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 021 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 021 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
