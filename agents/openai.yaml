@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-021"
-  short_description: "Create rough black-field breakout editorials."
-  default_prompt: "Use $xxd-panel-021 to place my source-bound subject mostly inside one pure-black rectangle with one defining feature breaking the boundary, rough jittery photocopy line, white negative form, tiny grey planes, asymmetric white space, and small native-script editorial annotations; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 021 from its original style brief."
+  default_prompt: "Use $xxd-panel-021; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
