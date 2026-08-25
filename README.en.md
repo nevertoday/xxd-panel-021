@@ -16,16 +16,7 @@
 
 </div>
 
-> PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · JITTERY PHOTOCOPY LINE · WHITE NEGATIVE FORM
-
-XXD Panel 021 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, and relation from the photograph, then establishes one horizontal or vertical pure-black rectangle as the main field. Most of the subject remains inside it while exactly one defining structure naturally crosses the boundary.
-
-The subject is rebuilt with black ink, technical-pen, or photocopy line that varies slightly in weight, jitters, breaks locally, and retraces only in small doses. White negative form carries recognition and tiny grey planes clarify structure. Generous paper, asymmetric placement, local cropping, and small editorial type make the breakout feel witty, restrained, and intentional.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090264725116551641) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 美学提示词 x VOL.021
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ The subject is rebuilt with black ink, technical-pen, or photocopy line that var
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090264725116551641) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 美学提示词 x VOL.021
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090264725116551641">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 021 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · JITTERY PHOTOCOPY LINE · WHITE NEGATIVE FORM
+
+XXD Panel 021 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, and relation from the photograph, then establishes one horizontal or vertical pure-black rectangle as the main field. Most of the subject remains inside it while exactly one defining structure naturally crosses the boundary.
+
+The subject is rebuilt with black ink, technical-pen, or photocopy line that varies slightly in weight, jitters, breaks locally, and retraces only in small doses. White negative form carries recognition and tiny grey planes clarify structure. Generous paper, asymmetric placement, local cropping, and small editorial type make the breakout feel witty, restrained, and intentional.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 021 right for you?
