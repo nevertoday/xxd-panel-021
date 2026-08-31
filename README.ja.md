@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 021
+# 🦁 XXD Panel 021｜黒の領域を越えて
 
 ### 写真の主体を、ひとつの純黒矩形から越境させる
 

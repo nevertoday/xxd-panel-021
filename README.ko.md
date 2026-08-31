@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 021
+# 🦁 XXD Panel 021｜검은 영역 넘기
 
 ### 사진 속 주제를 하나의 순검정 직사각형 밖으로 돌파시키기
 
