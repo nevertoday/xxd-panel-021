@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 021｜Crossing the Black Field: redraws the subject of a photo as a minimal black-and-white hand-drawn editorial illustration in which one pure-black horizontal or vertical rectangle is the main field: the subject sits mostly inside it while its most recognisable part — a head, roofline, branch, limb or edge — breaks out across the border as if leaning or growing out of the dark, drawn with slightly shaky, broken, re-traced ink or photocopy-like lines, white negative shapes and a little grey, framed by wide white paper, with a short title and one to three tiny handwritten or thin-type notes; no colour, solid silhouettes or smooth vector lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-021 or asks for black-rectangle break-out illustration, black-and-white ink editorial drawing or photocopy-line art from a photo.",
+  "short_description": "黑域越界：让照片主体从一块纯黑矩形里探出来，抖动手绘线、白色负形、只有黑白灰",
+  "zh-CN": {
+    "name": "黑域越界",
+    "tagline": "让照片主体从一块纯黑矩形里探出身来，用抖动的黑线和白色负形画成，只有黑白灰。",
+    "look": "画面中间是一块横向或纵向的纯黑矩形，主体大部分在里面，最有辨识度的头部、屋顶、枝叶、手脚或器物边缘越出矩形边界，像从黑暗里探出、穿过或长出来。主体只用黑色手绘线、白色负形和少量灰色块面表现，线条像墨笔、针管笔或复印线稿，有轻微抖动、断裂、重复描线和手工误差，内部只有几笔表情或结构线。四周是大片白纸，黑矩形稳重，越界的主体不对称、带一点幽默和古怪。文字是一个短标题加一到三组极小注释，手写或细瘦字体，贴着矩形边缘或顺着越界方向。",
+    "traits": [
+      "黑色矩形",
+      "主体越界",
+      "抖动复印线",
+      "白色负形",
+      "张力"
+    ],
+    "good": [
+      "有一个突出部位的主体：长颈鹿、竖着耳朵的猫、树冠、教堂尖顶",
+      "动作能伸出边界的画面：举手的人、探头的狗、跳起来的孩子",
+      "想要黑白、带点幽默感的插画或杂志配图的照片"
+    ],
+    "poor": [
+      "颜色很关键的照片，这套风格只用黑白灰",
+      "场景复杂、主体很多的照片，越界关系会说不清",
+      "想要整块黑色剪影、光滑矢量线或规整居中构图的需求"
+    ]
+  },
+  "en": {
+    "name": "Crossing the Black Field",
+    "tagline": "Lets the subject of a photo lean out of a pure-black rectangle, drawn in shaky black line and white shapes, in black, white and grey only.",
+    "look": "A horizontal or vertical pure-black rectangle anchors the picture. Most of the subject sits inside it, while its most recognisable part, a head, roofline, branch, limb or the edge of an object, crosses the border as if leaning, pushing or growing out of the dark. The subject is drawn only with black hand line, white negative shapes and a little grey; the line looks like ink brush, fineliner or a photocopied sketch, with slight shake, breaks, re-tracing and handmade error, and only a few strokes inside for expression or structure. Wide white paper surrounds a heavy, steady rectangle, while the escaping subject is asymmetric, a little funny and a little odd. Text is a short title with one to three tiny notes in handwriting or thin type, along the rectangle's edge or following the break-out.",
+    "traits": [
+      "Black rectangle",
+      "Breaking the frame",
+      "Shaky photocopy line",
+      "White negative shapes",
+      "Tension"
+    ],
+    "good": [
+      "Subjects with one part that sticks out: a giraffe, a cat with ears up, a tree crown, a church spire",
+      "Actions that can reach past an edge: someone raising a hand, a dog poking its head out, a child jumping",
+      "Photos you want as a black-and-white, slightly humorous illustration or magazine image"
+    ],
+    "poor": [
+      "Photos where colour matters, since this style uses only black, white and grey",
+      "Complex scenes with many subjects, where the break-out gets muddled",
+      "Requests for a solid black silhouette, smooth vector line or a neat centred layout"
+    ]
+  },
+  "ja": {
+    "name": "黒の領域を越えて",
+    "tagline": "写真の主役を真っ黒な長方形から身を乗り出させ、揺れる黒い線と白い形で描きます。色は白黒とグレーだけです。",
+    "look": "画面の中心は横長か縦長の真っ黒な長方形です。主役の大部分はその中にあり、いちばん特徴的な頭、屋根の線、枝葉、手足、器の縁などが境界を越えて、暗がりから身を乗り出す、突き抜ける、生え出すように見えます。主役は黒い手描きの線、白い負の形、少しのグレーの面だけで描き、線は筆ペン、ミリペン、コピーした線画のようで、わずかな揺れ、途切れ、なぞり直し、手の誤差があり、内側には表情や構造の線が数本あるだけです。まわりは広い白い紙で、どっしりした黒い長方形に対し、はみ出す主役は非対称で、少しおかしみと風変わりさがあります。文字は短いタイトルと一〜三組のごく小さな注記で、手書きか細い書体で長方形の縁に沿わせたり、はみ出す方向に流したりします。",
+    "traits": [
+      "黒い長方形",
+      "はみ出す主役",
+      "揺れるコピー線",
+      "白い負の形",
+      "緊張感"
+    ],
+    "good": [
+      "一部が突き出た主役：キリン、耳を立てた猫、木の梢、教会の尖塔",
+      "動きが境界を越えられる場面：手を挙げる人、顔を出す犬、跳び上がる子ども",
+      "白黒で少しユーモアのあるイラストや雑誌の挿絵にしたい写真"
+    ],
+    "poor": [
+      "色が大事な写真（このスタイルは白黒とグレーだけです）",
+      "主役が多く複雑な場面（はみ出しの関係があいまいになります）",
+      "黒一色のシルエット、なめらかなベクター線、整った中央配置を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "검은 영역 넘기",
+    "tagline": "사진의 주인공이 새까만 직사각형에서 몸을 내밀게 하고, 떨리는 검은 선과 흰 형태로 그립니다. 색은 흑백과 회색뿐입니다.",
+    "look": "화면의 중심은 가로나 세로로 놓인 새까만 직사각형입니다. 주인공 대부분은 그 안에 있고, 가장 알아보기 쉬운 머리, 지붕선, 가지와 잎, 팔다리, 물건의 가장자리가 경계를 넘어 어둠 속에서 몸을 내밀거나 뚫고 나오거나 자라 나온 듯 보입니다. 주인공은 검은 손그림 선, 흰 음의 형태, 약간의 회색 면으로만 그리며, 선은 붓펜, 플러스펜, 복사한 선화 같고 약간의 떨림, 끊김, 덧그림, 손의 오차가 있으며, 안쪽에는 표정이나 구조를 알리는 몇 획만 있습니다. 둘레는 넓은 흰 종이이고, 묵직하고 안정된 검은 직사각형에 비해 넘어 나오는 주인공은 비대칭이며 조금 유머러스하고 엉뚱합니다. 글자는 짧은 제목과 아주 작은 메모 한두 세 묶음으로, 손글씨나 가는 글꼴로 직사각형 가장자리를 따르거나 넘어 나오는 방향을 따릅니다.",
+    "traits": [
+      "검은 직사각형",
+      "경계를 넘는 주인공",
+      "떨리는 복사선",
+      "흰 음의 형태",
+      "긴장감"
+    ],
+    "good": [
+      "한 부분이 튀어나온 주인공: 기린, 귀를 세운 고양이, 나무 꼭대기, 교회 첨탑",
+      "동작이 경계 밖으로 뻗을 수 있는 장면: 손을 든 사람, 고개를 내민 강아지, 뛰어오르는 아이",
+      "흑백에 약간의 유머가 있는 일러스트나 잡지 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 중요한 사진(이 스타일은 흑백과 회색만 씁니다)",
+      "주인공이 많고 복잡한 장면(경계 넘기 관계가 흐려집니다)",
+      "꽉 찬 검은 실루엣, 매끈한 벡터 선, 반듯한 가운데 배치를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تجاوز الحقل الأسود",
+    "tagline": "يجعل عنصر الصورة يطلّ خارجاً من مستطيل أسود خالص، مرسوماً بخط أسود مرتعش وأشكال بيضاء، بالأسود والأبيض والرمادي فقط.",
+    "look": "يرتكز التصميم على مستطيل أسود خالص أفقي أو عمودي. يقع معظم العنصر داخله، بينما يعبر أوضح أجزائه حدوده، كالرأس أو خط السقف أو الأغصان أو الأطراف أو حافة شيء ما، كأنه يطلّ من الظلام أو يخترقه أو ينمو منه. لا يُرسم العنصر إلا بخط يد أسود وأشكال بيضاء سالبة وقليل من الرمادي، والخط يشبه فرشاة الحبر أو القلم الرفيع أو رسماً منسوخاً، فيه ارتعاش خفيف وانقطاع وإعادة تتبّع وأخطاء يد، ولا يحمل الداخل إلا ضربات قليلة للتعبير أو البنية. يحيط ورق أبيض واسع بمستطيل ثقيل ثابت، بينما العنصر الخارج منه غير متماثل، فيه شيء من الطرافة والغرابة. النص عنوان قصير مع ملاحظة صغيرة جداً إلى ثلاث، بخط اليد أو بحروف رفيعة، على حافة المستطيل أو في اتجاه الخروج.",
+    "traits": [
+      "مستطيل أسود",
+      "تجاوز الإطار",
+      "خط منسوخ مرتعش",
+      "أشكال بيضاء سالبة",
+      "توتر"
+    ],
+    "good": [
+      "عناصر يبرز منها جزء واحد: زرافة، قطة بأذنين منتصبتين، تاج شجرة، برج كنيسة",
+      "حركات يمكن أن تتخطى الحافة: شخص يرفع يده، كلب يطلّ برأسه، طفل يقفز",
+      "صور تريدها رسماً بالأسود والأبيض فيه شيء من الدعابة أو رسماً لمجلة"
+    ],
+    "poor": [
+      "صور يكون اللون فيها مهماً، فهذا الأسلوب لا يستخدم إلا الأسود والأبيض والرمادي",
+      "مشاهد معقدة كثيرة العناصر، تختلط فيها علاقة الخروج من الإطار",
+      "طلب ظل أسود مصمت أو خط متجهي أملس أو تكوين مركزي مرتّب"
+    ]
+  }
+}
